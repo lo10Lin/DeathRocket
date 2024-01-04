@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C2D60C9B-4DB5-47BB-EEC6-E3980947830E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RocketRoyal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
